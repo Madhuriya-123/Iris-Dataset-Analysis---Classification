@@ -12,15 +12,15 @@ Attribute Information:-
   5.species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 
 # Libraries
-. pandas
-. matplotlib
-. seaborn
+. pandas <br>
+. matplotlib <br>
+. seaborn <br>
 . scikit-learn
 
 # Algorithms
-. Logistic Regression
-. K-Nearest Neighbors
-. Decision Tree
+. Logistic Regression <br>
+. K-Nearest Neighbors <br>
+. Decision Tree <br>
 
 Best Model Accuracy : 100.0
 
