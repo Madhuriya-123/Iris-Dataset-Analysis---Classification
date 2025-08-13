@@ -12,7 +12,7 @@ Attribute Information:-
   5.species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 
 # Libraries
-<b>.</b> pandas <br>
+. pandas <br>
 . matplotlib <br>
 . seaborn <br>
 . scikit-learn
